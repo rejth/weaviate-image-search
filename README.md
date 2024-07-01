@@ -2,6 +2,10 @@
 
 ## This is an Image Search demo built with [Weaviate](https://weaviate.io), [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com/)
 
+
+https://github.com/rejth/weaviate-image-search/assets/48617824/15e5cd79-275a-4f81-a502-0120307154ce
+
+
 ## Getting Started
 
 ### Create a Weaviate database
@@ -17,7 +21,7 @@ Collect the `API key` and `URL` from the `Details` tab in Weaviate Cloud (WCD).
 
 ### Running Weaviate
 
-To start the Weaviate instance, run the following command, which will use the `docker-compose.yml` file.
+To start the Weaviate instance, run the following command using the `docker-compose.yml` file.
 
 ```bash
 docker compose up -d
@@ -33,7 +37,7 @@ To install all project dependencies, run:
 npm i
 ```
 
-To import your data into Weaviate and initialize a collection, run:
+To import your data into Weaviate and initialize a collection, run the following:
 
 ```bash
 npm run import
@@ -41,7 +45,7 @@ npm run import
 
 ### Running your web app
 
-> Make sure you have your Weaviate instance running with data imported before starting your web app.
+> Ensure your Weaviate instance runs with imported data before starting your web app.
 
 To run the web app:
 
