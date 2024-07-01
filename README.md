@@ -10,16 +10,6 @@
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0a956272e82d4f23a38a599cef1dd396-with-play.gif">
   </a>
 </div>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe
-    src="https://www.loom.com/embed/0a956272e82d4f23a38a599cef1dd396?sid=0b1b4975-d541-4755-a133-596b610ebf88"
-    frameborder="0"
-    webkitallowfullscreen
-    mozallowfullscreen
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
 
 ## Getting Started
 
