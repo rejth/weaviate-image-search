@@ -2,7 +2,7 @@
 
 ## This is an Image Search demo built with [Weaviate](https://weaviate.io), [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com/)
 
-https://github.com/rejth/weaviate-image-search/assets/48617824/1239656e-34ba-4c27-96f7-3fd945367730
+[Watch the video](https://raw.githubusercontent.com/rejth/weaviate-image-search/master/public/image-search-demo.mp4)
 
 ## Getting Started
 
